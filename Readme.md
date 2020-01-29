@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Nikita Khaustov](https://up.htmlacademy.ru/javascript/19/user/1173965).
-* Наставник: `Неизвестно`.
+- Студент: [Nikita Khaustov](https://up.htmlacademy.ru/javascript/19/user/1173965).
+- Наставник: [Denis Baidarov](https://htmlacademy.ru/profile/4er).
 
 ---
 
